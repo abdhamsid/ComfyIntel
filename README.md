@@ -45,7 +45,21 @@
    ```bash
    ./go-webui.sh
    ```
+---
+## Helpful Links & Resources
 
+- **ComfyUI GitHub Repository**: [github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI.git)
+- **Intel OneAPI Base Toolkit (Linux)**: [intel.com/download-oneapi-linux](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
+- **ComfyUI Community Discussion**: [github.com/comfyanonymous/ComfyUI/discussions/476](https://github.com/comfyanonymous/ComfyUI/discussions/476)
+
+### Community & Support
+
+If you have any questions, feel free to connect with the ComfyUI community on various platforms:
+- **Discord**
+- **Reddit** (ComfyUI subreddit)
+- **GitHub Discussions**
+
+These communities offer guidance, troubleshooting help, and learning resources to support your setup and usage of ComfyUI.
 ## License  
 This project is licensed under the MIT License.
 ---
